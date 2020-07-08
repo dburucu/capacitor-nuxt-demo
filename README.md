@@ -11,6 +11,9 @@ $ yarn install
 # serve with hot reload at localhost:3000
 $ yarn run dev
 
+# update android folder (capacitor-cordova-android-plugins)
+$ npx cap update android
+
 # build for production and run npx cap copy for android
 $ yarn  build
 
